@@ -4,3 +4,4 @@ plotly
 nbformat
 ipykernel
 ipywidgets>=7.5
+kaleido
