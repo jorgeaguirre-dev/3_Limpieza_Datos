@@ -1,3 +1,6 @@
 pandas
 xlrd
 plotly
+nbformat
+ipykernel
+ipywidgets>=7.5
