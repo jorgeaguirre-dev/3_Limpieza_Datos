@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-def clean_age_contextual(age_str):
+def clean_age(age_str):
     age_str = str(age_str).upper().strip()
     
     # Casos sin información de edad
