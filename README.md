@@ -10,7 +10,7 @@ Registran los siguientes datos:
 ![dataset](dataset.png)
 
 ## Análisis
-Se analiza la cantidad de incidentes de cada tipo por país.
+A partir de la información provista por la página de referencia, se analiza la cantidad de incidentes de cada tipo por país.
 Para ver en detalle el paso a paso del análisis, y observar los distintos criterios adoptados, ver: [Notebook](notebook.ipynb)
 
 ## Resultados
