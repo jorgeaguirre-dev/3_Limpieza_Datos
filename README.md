@@ -7,16 +7,16 @@ El dataset puede descargarse de: https://www.sharkattackfile.net/incidentlog.htm
 
 Registran los siguientes datos:
 
-![dataset](dataset.png)
+![dataset](img/dataset.png)
 
 ## Análisis
 A partir de la información provista por la página de referencia, se analiza la cantidad de incidentes de cada tipo por país.
-Para ver en detalle el paso a paso del análisis, y observar los distintos criterios adoptados, ver: [Notebook](notebook.ipynb)
+Para ver en detalle el paso a paso del análisis, y observar los distintos criterios adoptados, ver: [**-> Notebook**](notebook.ipynb)
 
 ## Resultados
 En la siguiente tabla se puede observar para cada país (ordenado por cantidad de incidentes en forma descendente) la cantidad encontrada por tipo de ataque.
 
-![Tabla Resultado](tabla_ref_cruz.png)
+![Tabla Resultado](img/tabla_ref_cruz.png)
 
 También se proveen como resultado del análisis:
 - Archivo Excel: analisis_ataques_tiburones
@@ -28,5 +28,5 @@ También se proveen como resultado del análisis:
 
 El siguiente mapa muestra la distribución global de ataques de tiburón, con cada país coloreado según el número total de ataques registrados. Los países con más ataques aparecen en tonos más oscuros de rojo, lo que permite identificar rápidamente las regiones más afectadas por este fenómeno.
 
-![Mapa Global de Ataques de Tiburón](./mapa_ataques_tiburones.png)
+![Mapa Global de Ataques de Tiburón](img/mapa_ataques_tiburones.png)
 
